@@ -2,12 +2,13 @@
 ### My name is Victor Lopes!
 
 - 🌱 I'm currently updating JAVA and some framework;
-- ⚡ Curiosity: I love to learn new things; 
-### Ferramentas e Tecnologias
+- ⚡ Curiosity: I love to learn new things;
+
+### Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
 
-### Estou aprendendo
+### I am learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 
