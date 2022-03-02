@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Victor Lopes!
 
-- 🌱 Atualmente estou aprendendo JAVA e alguns framework;
-- ⚡ Curiosidade: Amo aprender coisas novas; 
+- 🌱 I'm currently updating JAVA and some framework;
+- ⚡ Curiosity: I love to learn new things; 
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
