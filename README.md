@@ -2,7 +2,7 @@
 ### My name is Victor Lopes!
 
 - 🌱 I'm currently updating JAVA and some framework;
-- 🔭 looking for a place to start in the programming world!
+- 🔭 Looking for a place to start in the programming world!
 - ⚡ Curiosity: I love to learn new things;
 
 ### Tools and Technologies
