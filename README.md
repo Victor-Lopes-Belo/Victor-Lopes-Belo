@@ -8,7 +8,7 @@
  
  <ul>
   <li> My name is Victor Lopes!</li>
-  <li> 🌱 I'm studying JAVA and SpringBoot </li>
+  <li> 🌱 I'm studying JAVA and SpringBoot; </li>
   <li> 🔭 Looking for an opportunity to get started in the world of programming! </li>
   <li> ⚡ Curiosity: I like challenges and new things; </li>
  <ul>
