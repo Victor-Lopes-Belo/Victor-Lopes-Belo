@@ -1,22 +1,41 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Victor Lopes!
+<h1> 👋 Hello! Welcome to my Github profile. </h1>
 
-- 🌱 I'm currently updating JAVA and some framework;
-- 🔭 Looking for a place to start in the programming world!
-- ⚡ Curiosity: I love to learn new things;
+<h3> :man_technologist: &nbsp;About Me : </h3>
 
-### Tools and Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<h4> I am a Backend Developer </h4>
 
+ <p> My name is Victor Lopes! <p>
+ 
+ <ul>
+  <li> My name is Victor Lopes!</li>
+  <li> 🌱 I'm studying JAVA and SpringBoot </li>
+  <li> 🔭 Looking for an opportunity to get started in the world of programming! </li>
+  <li> ⚡ Curiosity: I like challenges and new things; </li>
+ <ul>
+   
+ ---
+   
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lopes-7537121b5/)
 
-### I am learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+---
 
+   
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="potsgresql" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
+</p>
+                                                                                                                                    
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Victor-Lopes-Belo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lopes-Belo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Lopes-Belo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
