@@ -23,21 +23,32 @@
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="potsgresql" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
 </p>
-                                                                                                                                    
+                                                                                                                                   
+ 
 <div>
-<a href="https://github.com/Victor-Lopes-Belo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lopes-Belo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Lopes-Belo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ <a href="https://github.com/Victor-Lopes-Belo">
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Lopes-Belo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lopes-Belo&layout=compact&theme=dracula"/>
 </div>
 
-  ![Snake animation](https://github.com/Victor-Lopes-Belo/Victor-Lopes-Belo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Victor-Lopes-Belo/Victor-Lopes-Belo/blob/output/github-contribution-grid-snake.svg)
   
