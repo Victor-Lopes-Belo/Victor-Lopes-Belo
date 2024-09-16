@@ -1,20 +1,20 @@
 <h1> 👋 Hello! Welcome to my Github profile. </h1>
 
-<h4> I`am a Backend Developer </h4>
+<h4> I`am a Web Developer </h4>
 
  <p> My name is Victor Lopes! <p>
  
  <ul>
   <li> 🌱 I'm studying C# and .NET; </li>
+  <li> 🌱 I'm studying HTML, CSS and JavaScript; </li>
   <li> ⚡ Curiosity: I like challenges and new things; </li>
  <ul>
    
- ---
+---
    
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lopes-7537121b5/)
 
 ---
-
    
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -35,18 +35,18 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="70" height="70"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="potsgresql" width="70" height="70"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="70" height="70"/>
-
-</p>
-                                                                                                                                   
+</p>                                                                                                                          
  
 <div>
  <a href="https://github.com/Victor-Lopes-Belo">
@@ -55,6 +55,3 @@
    
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lopes-Belo&layout=compact&theme=dracula"/>
 </div>
-
-![Snake animation](https://github.com/Victor-Lopes-Belo/Victor-Lopes-Belo/blob/output/github-contribution-grid-snake.svg)
-  
