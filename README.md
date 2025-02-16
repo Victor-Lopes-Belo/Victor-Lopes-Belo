@@ -1,57 +1,103 @@
-<h1> 👋 Hello! Welcome to my Github profile. </h1>
+<h1 align="center"> 👋 Olá! Bem-vindo ao meu perfil Github.</h1>
 
-<h4> I`am a Web Developer </h4>
+### <p align="center">Sobre mim</p>
 
- <p> My name is Victor Lopes! <p>
- 
- <ul>
-  <li> 🌱 I'm studying C# and .NET; </li>
-  <li> 🌱 I'm studying HTML, CSS and JavaScript; </li>
-  <li> ⚡ Curiosity: I like challenges and new things; </li>
- <ul>
-   
+<p align="center">
+  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. <br/>
+  - 🎓 Estudando Ciências da Computação no UNIFESO. <br/>
+  - 💼 Trabalhando como Delphi e C# no Grupo IOB. <br/>
+  - 🌱 Aprendendo mais sobre JS, React, Next e Nest, pois quero me especializar no desenvolvimento de aplicações fullstack.
+</p>
+
+--- 
+### <p align="center">Minhas Skills</p>
+
+### <p align="center">Frontend</p>
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" /> 
+</p>
+
+### <p align="center">Backend</p>
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,cs,dotnet,java,spring&perline=7" /> 
+</p>
+
+### <p align="center">Banco de Dados</p>
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=4" /> 
+</p>
+
+
+
+## <p align="center">Utilidades</p>
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=kubernetes,postman" /> 
+</p>
+
+## <p align="center">DevOps</p>
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=git,aws,bitbucket" /> 
+</p>
+
+## <p align="center">Ferramentas de desenvolvimento</p>
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /> 
+</p>
+
+## <p align="center">Onde me encontrar</p>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/victor-lopes-7537121b5/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" /> 
+  </a> 
+  <a href="mailto:victorlopesbelodev@gmail.com"> 
+    <img src="https://skillicons.dev/icons?i=gmail" /> 
+  </a> 
+</p>
+
+
+<br/>
+
 ---
-   
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lopes-7537121b5/)
+### ⚙️ GitHub Analytics
 
----
-   
-### 🛠 &nbsp;Languages and Tools :
+<table align="center">
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Victor-Lopes-Belo&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lopes-Belo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="70" height="70"/>
+--- 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="csharp" width="70" height="70"/>
+### 🏆 GitHub Profile Trophy
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="70" height="70"/>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="70" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="potsgresql" width="70" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="70" height="70"/>
-</p>                                                                                                                          
- 
-<div>
- <a href="https://github.com/Victor-Lopes-Belo">
-  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Lopes-Belo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lopes-Belo&layout=compact&theme=dracula"/>
-</div>
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Victor-Lopes-Belo&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
