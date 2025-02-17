@@ -5,8 +5,8 @@
 <p align="center">
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. <br/>
   - 🎓 Estudando Ciências da Computação no UNIFESO. <br/>
-  - 💼 Trabalhando como Delphi e C# no Grupo IOB. <br/>
-  - 🌱 Aprendendo mais sobre JS, React, Next e Nest, pois quero me especializar no desenvolvimento de aplicações fullstack.
+  - 💼 Trabalhando como desenvolvedor Jr com as tecnologias Delphi e C# no Grupo IOB. <br/>
+  - 🌱 Aprendendo mais sobre JS, React, Next e Nest, pois quero me especializar no desenvolvimento de aplicações web fullstack.
 </p>
 
 --- 
