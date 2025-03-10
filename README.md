@@ -9,7 +9,7 @@
   - 🌱 Aprendendo mais sobre HTML, CSS, JS, React, Next e Nest, pois quero me especializar no desenvolvimento de aplicações web fullstack.
 </p>
 
---- 
+##
 ### <p align="center">Minhas Skills</p>
 
 ### <p align="center">Frontend</p>
@@ -30,21 +30,19 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=4" /> 
 </p>
 
-
-
-## <p align="center">Utilidades</p>
+### <p align="center">Utilidades</p>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=kubernetes,postman" /> 
 </p>
 
-## <p align="center">DevOps</p>
+### <p align="center">DevOps</p>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=git,aws,bitbucket" /> 
 </p>
 
-## <p align="center">Ferramentas de desenvolvimento</p>
+### <p align="center">Ferramentas de desenvolvimento</p>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /> 
