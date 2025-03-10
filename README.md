@@ -73,8 +73,10 @@
   Atuei no desenvolvimento e manutenção do <strong>Minha Gestão Contábil</strong>, auxiliando na implementação de novas funcionalidades e correção de bugs.
 </p>
 
+##
 
 ### <p align="center">Para encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação</p>
+
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/victor-lopes-7537121b5/" target="_blank" rel="noopener noreferrer"> 
