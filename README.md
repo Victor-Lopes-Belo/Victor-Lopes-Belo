@@ -58,7 +58,7 @@
 <p align="center">
   <strong>Desenvolvedor Jr</strong> <br/>
   <a href="https://www.iob.com.br/" target="_blank">Grupo IOB</a> • Tempo integral • Remoto <br/>
-  set de 2024 - o momento • 6 meses <br/>
+  set de 2024 - o momento <br/>
   Linguagens & Tecnologias: <code>Delphi</code>, <code>C#</code>, <code>SQL</code>, <code>MySQL</code>, <code>Git</code>, <code>Visual Studio</code>, <code>RAD Studio</code> <br/>
   Atuo no time de desenvolvimento do sistema <strong>Minha Gestão Contábil</strong>, no módulo Fiscal, realizando manutenções e criando novas rotinas no sistema. Trabalho com a metodologia <strong>Scrum</strong> e ferramentas como <strong>Visual Studio</strong>, <strong>RAD Studio</strong>, <strong>SQL</strong> e <strong>Git</strong>.
 </p>
